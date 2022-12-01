@@ -2,7 +2,14 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+## Gruppe:
+Muffin
+## Mitglieder: 
+Benas Sivickas, 
+Janick Hurschler, 
+Blentin Tusoni, 
+Gian-Marco Mileti, 
+Joël Haldimann.
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
