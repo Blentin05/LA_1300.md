@@ -5,10 +5,10 @@
 Muffin
 ### Mitglieder: 
 Benas Sivickas, <br>
-Janick Hurschler, 
-Blentin Tusoni, 
-Gian-Marco Mileti, 
-Joël Haldimann.
+Janick Hurschler, <br>
+Blentin Tusoni, <br>
+Gian-Marco Mileti, <br>
+Joël Haldimann. <br>
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
