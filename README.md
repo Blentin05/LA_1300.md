@@ -2,7 +2,7 @@
 
 # Projekt-Dokumentation
 
-WIldeFüchseGang Hruschler, Sivickas, Mileti, Haldimann, Tousoni
+WildeFüchseGang Hruschler, Sivickas, Mileti, Haldimann, Tousoni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
