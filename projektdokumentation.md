@@ -2,7 +2,7 @@
 
 
 ### Gruppe:
-Muffin
+Cupcake
 ### Mitglieder: 
 Benas Sivickas, <br>
 Janick Hurschler, <br>
