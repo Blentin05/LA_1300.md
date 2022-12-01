@@ -20,7 +20,7 @@ Joël Haldimann. <br>
 
 ### 1.1 Ihr Projekt
 
-Wir als Gruppe programmieren ein mini-Game (Hangman) mit C#, Visual Studios und WinForms.
+Wir als Gruppe programmieren ein Cake-Clicker-Game mit C#, Visual Studios und WinForms.
 
 ### 1.2 User Stories
 
