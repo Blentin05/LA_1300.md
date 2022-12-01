@@ -26,8 +26,8 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    muaa             |   funktional   | als User möchte ich auf einen button clicken, um meinen Score zu erhöhen|
-| ...  |                 |      |                                    |
+| 1    |    muss             |   funktional   | als User möchte ich auf einen button clicken, um meinen Score zu erhöhen|
+| 2  |      muss           |   Qualität   |     als User möchte ich mit meinem Score Verbesserungen kaufen, um das Spiel cooler und schneller zu machen.                          |
 | ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
 | ...  |                 |      |                                    |
