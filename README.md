@@ -2,9 +2,7 @@
 
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+WIldeFüchseGang Hruschler, Sivickas, Mileti, Haldimann, Tousoni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -16,7 +14,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren ein Cake Clicker Game programmieren.
 
 ### 1.2 User Stories
 
