@@ -4,7 +4,7 @@
 ### Gruppe:
 Muffin
 ### Mitglieder: 
-Benas Sivickas, 
+Benas Sivickas, <br>
 Janick Hurschler, 
 Blentin Tusoni, 
 Gian-Marco Mileti, 
