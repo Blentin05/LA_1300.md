@@ -44,8 +44,8 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |      WinForms ist gestartet        |    auf Cookie clicken     |        Score:1           |
+| 2.1  |      Score > 50        |   auf Upgrade 1 clicken      |        update 1 wurde gekauft, +1 cookie           |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -57,8 +57,8 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |   01.12.2022    |     Joel, Janick      |      Funktionen         |      120 min         |
+| 2.A  |   01.12.2022    |     Benas, Gian-Marco      |      Design        |       120 min        |
 
 Total: 
 
