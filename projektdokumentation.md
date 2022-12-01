@@ -1,10 +1,9 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-## Gruppe:
+### Gruppe:
 Muffin
-## Mitglieder: 
+### Mitglieder: 
 Benas Sivickas, 
 Janick Hurschler, 
 Blentin Tusoni, 
@@ -21,7 +20,7 @@ Joël Haldimann.
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir als Gruppe programmieren ein mini-Game (Hangman) mit C#, Visual Studios und WinForms.
 
 ### 1.2 User Stories
 
