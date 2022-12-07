@@ -1,0 +1,17 @@
+C:\Users\haldi\source\repos\cookie-clicker\bin\Debug\net6.0-windows\cookie-clicker.exe
+C:\Users\haldi\source\repos\cookie-clicker\bin\Debug\net6.0-windows\cookie-clicker.deps.json
+C:\Users\haldi\source\repos\cookie-clicker\bin\Debug\net6.0-windows\cookie-clicker.runtimeconfig.json
+C:\Users\haldi\source\repos\cookie-clicker\bin\Debug\net6.0-windows\cookie-clicker.dll
+C:\Users\haldi\source\repos\cookie-clicker\bin\Debug\net6.0-windows\cookie-clicker.pdb
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.csproj.AssemblyReference.cache
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie_clicker.Form1.resources
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.csproj.GenerateResource.cache
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.AssemblyInfoInputs.cache
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.AssemblyInfo.cs
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.csproj.CoreCompileInputs.cache
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.dll
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\refint\cookie-clicker.dll
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.pdb
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\cookie-clicker.genruntimeconfig.cache
+C:\Users\haldi\source\repos\cookie-clicker\obj\Debug\net6.0-windows\ref\cookie-clicker.dll
