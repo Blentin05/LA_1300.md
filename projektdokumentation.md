@@ -30,22 +30,22 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 2  |      muss           |   Qualität   |     als User möchte ich mit meinem Score Verbesserungen kaufen, um das Spiel cooler und schneller zu machen.                          |
 | 3  |       muss          |   funktional   |     Als Computer möchte ich die Clicks von User erkennen, um seinen Score zu erhöhen.                               |
 | 4  |       muss          |   Qualität   |     Als Computer möchte ich dem User die Möglichkeit geben, Verbesserungen zu kaufen.                               |
-| 5  |       muss          |  Qualität    |     Als Computer möchte ich das Aussehen und Geschwindigkeit des Games veröndern, um dem User den Spielspass zu ermöglichen.                               |
+| 5  |       muss          |  Qualität    |     Als Computer möchte ich das Aussehen und die Geschwindigkeit des Games veröndern, um dem User den Spielspass zu erhöhen.                               |
 | 6 |    kann             |  qualität    |   Als User möchte ich, dass das Design vom Spiel schön ist, um Spass am Spiel zu haben.                                 |
-| 7 |  muss           | funktional        |   Als User möchte ich wählen, welche Cookies ich produzieren will, damit mehr Abwechslung im Spiel ist.
-| 8 |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
-| ...  |                 |      |                                    |
+| 7 |  kann          | funktional        |   Als User möchte ich wählen, welche Cookies ich produzieren will, damit mehr Abwechslung im Spiel ist.
+| 8 |  kann               |  funktional   |  Als User möchte ich, dass die Zeit des Spiels begrenzt ist, damit das Spiel nicht langweilig wird.                                  |
+| 9 | kann              |kann      |  Als User möchte ich, dass man die Cookies verkaufen kann.                                  |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      WinForms ist gestartet        |    auf Cookie clicken     |        Score:1           |
-| 2.1  |      Score > 50        |   auf Upgrade 1 clicken      |        update 1 wurde gekauft, +1 cookie           |
+| 1.1  |      Spiel wird gestartet       |   Click auf Button     |       Score: +1        |
+| 2.1  |      Spiel wird gestartet      |   Click auf Verbesserungen      |      Verbesserungen wurden gekauft          |
+| 3.1  |      Spiel wird gestartet        | Click auf Button        |       Score wird erhöht          |
+| 4.1  |   Spiel wird gestartet       |  Click auf Verbesserungen      |       Verbesserungen wurden gekauft.          |
+| 5.1  | Laufendes Spiel      | Click auf Button      |   Aussehen und Geschwindigkeit wird verändern.             |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
