@@ -34,7 +34,7 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 6 |    kann             |  qualität    |   Als User möchte ich, dass das Design vom Spiel schön ist, um Spass am Spiel zu haben.                                 |
 | 7 |  kann          | funktional        |   Als User möchte ich wählen, welche Cookies ich produzieren will, damit mehr Abwechslung im Spiel ist.
 | 8 |  kann               |  funktional   |  Als User möchte ich, dass die Zeit des Spiels begrenzt ist, damit das Spiel nicht langweilig wird.                                  |
-| 9 | kann              |kann      |  Als User möchte ich, dass man die Cookies verkaufen kann.                                  |
+| 9 | kann              |funktional      |  Als User möchte ich, dass man die Cookies verkaufen kann.                                  |
 
 
 ### 1.3 Testfälle
