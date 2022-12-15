@@ -52,7 +52,7 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 9.1  | Laufendes Spiel      | Cookie wird auf Kunden verschoben     |   Score: +5           |
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Screenshot_20221215_090158](https://user-images.githubusercontent.com/111045987/207805966-7b523bda-a21b-40a2-999b-036fdcead4f8.png)
 
 ## 2 Planen
 
