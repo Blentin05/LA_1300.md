@@ -46,9 +46,10 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 3.1  |      Spiel wird gestartet        | Click auf Button        |       Score wird erhöht          |
 | 4.1  |   Spiel wird gestartet       |  Click auf Verbesserungen      |       Verbesserungen wurden gekauft.          |
 | 5.1  | Laufendes Spiel      | Click auf Button      |   Aussehen und Geschwindigkeit wird verändern.             |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
+| 6.1  | Laufendes Spiel      | -      |   Schönes Design            |
+| 7.1  | Laufendes Spiel      | Click auf beliebiges Cookie      |   Ausgewähltes Cookie erscheint          |
+| 8.1  | Laufendes Spiel      | -      |   Spiel ist beendet            |
+| 9.1  | Laufendes Spiel      | Cookie wird auf Kunden verschoben     |   Score: +5           |
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
