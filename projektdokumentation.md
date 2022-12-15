@@ -8,7 +8,7 @@ Benas Sivickas, <br>
 Janick Hurschler, <br>
 Blentin Tosuni, <br>
 Gian-Marco Mileti, <br>
-Joël Haldimann. <br>
+Joël Haldimann <br>
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
