@@ -6,7 +6,7 @@ Cupcake
 ### Mitglieder: 
 Benas Sivickas, <br>
 Janick Hurschler, <br>
-Blentin Tusoni, <br>
+Blentin Tosuni, <br>
 Gian-Marco Mileti, <br>
 Joël Haldimann. <br>
 
