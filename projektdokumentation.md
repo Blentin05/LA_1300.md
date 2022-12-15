@@ -45,7 +45,7 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 2.1  |      Spiel wird gestartet      |   Click auf Verbesserungen      |      Verbesserungen wurden gekauft          |
 | 3.1  |      Spiel wird gestartet        | Click auf Button        |       Score wird erhöht          |
 | 4.1  |   Spiel wird gestartet       |  Click auf Verbesserungen      |       Verbesserungen wurden gekauft.          |
-| 5.1  | Laufendes Spiel      | Click auf Button      |   Aussehen und Geschwindigkeit wird verändern.             |
+| 5.1  | Laufendes Spiel      | Click auf Button      |   Aussehen und Geschwindigkeit wird verändert.             |
 | 6.1  | Laufendes Spiel      | -      |   Schönes Design            |
 | 7.1  | Laufendes Spiel      | Click auf beliebiges Cookie      |   Ausgewähltes Cookie erscheint          |
 | 8.1  | Laufendes Spiel      | -      |   Spiel ist beendet            |
@@ -58,27 +58,32 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   01.12.2022    |     Joel, Janick      |      Funktionen         |      120 min         |
-| 2.A  |   01.12.2022    |     Benas, Gian-Marco      |      Design        |       120 min        |
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+| 1.A  |   01.12.2022    |     Joël, Janick      |      Funktionen         |      135 min         |
+| 2.A  |   01.12.2022    |     Benas, Gian-Marco      |      Design        |       135 min        |
+| 3.A  |   01.12.2022    |      Blentin      |      Funktion        |       135 min        |
+| 4.A  |   08.12.2022    |     Benas      |      Funktion        |       135 min        |
+| 5.A  |   08.12.2022    |     Blentin      |      Design        |       135 min        |
+| 6.A  |   08.12.2022    |      Gian-Marco      |      Design        |       135 min        |
+| 7.A  |   08.12.2022    |     Jancik    |    Funktion        |       135 min        |
+| 8.A  |   08.12.2022    |     Joël      |      Funktion       |       135 min        |
+| 9.A  |   15.12.2022    |     Benas     |      Design        |    90 min           |
+Total: 900 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir wollen in C# mit Windows Forms ein Spiel programmieren.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 01.12.2022      | Joël, Janick          |135 min               |Ca. 160 min                   |
+| 2.A  |01.12.2022     |  Benas, Gian-Marco         |135 min               |Ca. 160  min                   |
+| 3.A  |   08.12.2022    |     Blentin     |     135 min       |       Ca. 160 min        |
+| 4.A  | 08.12.2022      | Joël, Janick          |135 min               |Ca. 160 min                   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
+Wir haben die Zeit verschätzt, deswegen haben wir länger gebraucht als gedacht. Wir mussten und auch gegenseitig helfen, also wir mussten am 01.12.2022 alle zusammen an zwei Arbeitspaketen arbeiten.
 
 ## 5 Kontrollieren
 
