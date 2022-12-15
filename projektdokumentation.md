@@ -30,7 +30,7 @@ Wir als Gruppe programmieren ein Cookie-Clicker-Game mit C#, Visual Studios und 
 | 2  |      muss           |   Qualität   |     als User möchte ich mit meinem Score Verbesserungen kaufen, um das Spiel cooler und schneller zu machen.                          |
 | 3  |       muss          |   funktional   |     Als Computer möchte ich die Clicks von User erkennen, um seinen Score zu erhöhen.                               |
 | 4  |       muss          |   Qualität   |     Als Computer möchte ich dem User die Möglichkeit geben, Verbesserungen zu kaufen.                               |
-| 5  |       muss          |  Qualität    |     Als Computer möchte ich das Aussehen und die Geschwindigkeit des Games veröndern, um dem User den Spielspass zu erhöhen.                               |
+| 5  |       muss          |  Qualität    |     Als Computer möchte ich das Aussehen und die Geschwindigkeit des Games verändern, um dem User den Spielspass zu erhöhen.                               |
 | 6 |    kann             |  qualität    |   Als User möchte ich, dass das Design vom Spiel schön ist, um Spass am Spiel zu haben.                                 |
 | 7 |  kann          | funktional        |   Als User möchte ich wählen, welche Cookies ich produzieren will, damit mehr Abwechslung im Spiel ist.
 | 8 |  kann               |  funktional   |  Als User möchte ich, dass die Zeit des Spiels begrenzt ist, damit das Spiel nicht langweilig wird.                                  |
