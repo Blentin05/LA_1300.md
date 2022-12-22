@@ -12,9 +12,10 @@ Joël Haldimann <br>
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|   1.12.22    | 0.0.1   |       Wir haben angefangen in Paaren zu programmieren.          |
+|     8.12.22          |      Wir hatten einen ersten spielbaren Prototypen und übten dann unsere Präsentation.   |
+|   15.12.22               |         Wir haben unser Programm vollständig zusammengefügt.          |
+| 22.12.22 |      |
 
 ## 1 Informieren
 
@@ -91,16 +92,17 @@ Wir haben die Zeit verschätzt, deswegen haben wir länger gebraucht als gedacht
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1 |22.12.2022|OK          |Blentin Tosuni        |
-| 2.1 |22.12.2022|OK          |Blentin Tosuni        |
-| 3.1 |22.12.2022|OK          |Blentin Tosuni       |
-| 4.1 |22.12.2022|OK          |Blentin Tosuni        |
-| 5.1 |22.12.2022|OK          |Blentin Tosuni        |
-| 6.1 |22.12.2022|OK          |Gian-Marco Mileti      |
-| 7.1 |22.12.2022|NOK          |Gian-Marco Mileti        |
-| 8.1 |22.12.2022|NOK          |Gian-Marco Mileti        |
-| 9.1 |22.12.2022|NOK          |Gian-Marco Mileti        |
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+| 1.1 |22.12.2022|          |Blentin Tosuni        |
+| 2.1 |22.12.2022|          |Blentin Tosuni        |
+| 3.1 |22.12.2022|          |Blentin Tosuni       |
+| 4.1 |22.12.2022|          |Blentin Tosuni        |
+| 5.1 |22.12.2022|          |Blentin Tosuni        |
+| 6.1 |22.12.2022|          |Gian-Marco Mileti      |
+| 7.1 |22.12.2022|          |Gian-Marco Mileti        |
+| 8.1 |22.12.2022|          |Gian-Marco Mileti        |
+| 9.1 |22.12.2022|          |Gian-Marco Mileti        |
+
+Fazit:
 
 
 ## 6 Auswerten
