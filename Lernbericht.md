@@ -45,3 +45,4 @@ Wie haben hin und wieder vergessen, die Projektdokumentation zu schreiben und up
 
 **VBV**: Beim nächsten Projekt muss die Gruppe unbedingt eine Person auswählen, die die Projektdoku immer überarbeitet und alles einschreibt. Die anderen Gruppenmitglieder müssen natürlich mit diesser Person
 auch kommunizieren. So sollten alle einen Überblick behalten und es gibt am Ende des Projektes keinen Stress.
+
