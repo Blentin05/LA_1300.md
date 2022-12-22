@@ -23,8 +23,10 @@ updaten, wenn man einen anderen Button drückt. Das klingt wie gesagt ziemlich e
 Also Schlussendlich haben wir einfach den Button, der fürs anklicken des Cookies gedacht ist, genommen und haben gesagt: Wenn man diesen Knopf, also Cookie, drückt, dann
 Schreibe auch die aktuelle Punktzahl in das Counter-Feld. So konnten wir das Problem lösen und am Programm weiterarbeiten.
 
-![Code:](<img width="584" alt="2022-12-22" src="https://user-images.githubusercontent.com/111045598/209099849-deeb40af-27d6-49aa-ad77-9c3ed4dcc8bc.png">)
+Lösung im Code:
 <img width="584" alt="2022-12-22" src="https://user-images.githubusercontent.com/111045598/209099984-925afe15-7f3c-4b7e-84c8-7d243c856666.png">
+
+
 
 
 
@@ -32,7 +34,7 @@ Schreibe auch die aktuelle Punktzahl in das Counter-Feld. So konnten wir das Pro
 
 Der Text zeigt, was das Problem war und wie wir zur Lösung gekommen sind.   
 Das Bild zeigt, wie das ganze im Code aussieht.   
-Und das GIF zeigt, wie es aussieht, wenn der Spieler auf den Cookie clickt.  
+Eigentlich würde hier noch ein GIF zu sehen sein, aber der Gruppenchef sammt Code ist nicht anwesend. So kann ich auch kein GIF erstellen. :)
 
 # Reflexion zum Arbeitsprozess
 
