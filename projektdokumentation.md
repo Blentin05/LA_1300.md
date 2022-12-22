@@ -15,7 +15,7 @@ Joël Haldimann <br>
 |   1.12.22    | 0.0.1   |       Wir haben angefangen in Paaren zu programmieren.          |
 |     8.12.22          |  0.0.2    | Wir hatten einen ersten spielbaren Prototypen und übten dann unsere Präsentation.   |
 |   15.12.22               | 1.0.0   |     Wir haben unser Programm vollständig zusammengefügt.          |
-| 22.12.22 |      |
+
 
 ## 1 Informieren
 
