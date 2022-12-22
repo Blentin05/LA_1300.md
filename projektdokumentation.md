@@ -107,4 +107,6 @@ Wir haben die Zeit verschätzt, deswegen haben wir länger gebraucht als gedacht
 
 ## 6 Auswerten
 
+Lernbericht: Lernbericht.md
+
 
