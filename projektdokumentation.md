@@ -91,19 +91,17 @@ Wir haben die Zeit verschätzt, deswegen haben wir länger gebraucht als gedacht
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
-
+| 1.1  |22.12.2022       |          |Blentin Tosuni        |
+| 2.1 |22.12.2022       |          |Blentin Tosuni        |
+| 3.1 |22.12.2022       |          |Blentin Tosuni       |
+| 4.1 |22.12.2022       |          |Blentin Tosuni        |
+| 5.1 |22.12.2022       |          |Blentin Tosuni        |
+| 6.1 |22.12.2022       |          |Gian-Marco Mileti      |
+| 7.1 |22.12.2022       |          |Gian-Marco Mileti        |
+| 8.1 |22.12.2022       |          |Gian-Marco Mileti        |
+| 9.1 |22.12.2022       |          |Gian-Marco Mileti        |
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
