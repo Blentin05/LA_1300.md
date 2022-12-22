@@ -29,9 +29,9 @@ Schreibe auch die aktuelle Punktzahl in das Counter-Feld. So konnten wir das Pro
 
 ## Verifikation
 
-Der Text zeigt, was das Problem war und wie wir zur Lösung gekommen sind. 
-Das Bild zeigt, wie das ganze im Code aussieht. 
-Und das GIF zeigt, wie es aussieht, wenn der Spieler auf den Cookie clickt.
+Der Text zeigt, was das Problem war und wie wir zur Lösung gekommen sind.   
+Das Bild zeigt, wie das ganze im Code aussieht.   
+Und das GIF zeigt, wie es aussieht, wenn der Spieler auf den Cookie clickt.  
 
 # Reflexion zum Arbeitsprozess
 
