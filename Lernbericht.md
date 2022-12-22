@@ -1,4 +1,4 @@
-# LA_1300 Lern-Bericht
+# LA_1300 Lern-Bericht der Gruppe Cupcake
 Janick Hurschler,  
 Blentin Tousoni,  
 Joël Haldimann,  
@@ -23,7 +23,7 @@ updaten, wenn man einen anderen Button drückt. Das klingt wie gesagt ziemlich e
 Also Schlussendlich haben wir einfach den Button, der fürs anklicken des Cookies gedacht ist, genommen und haben gesagt: Wenn man diesen Knopf, also Cookie, drückt, dann
 Schreibe auch die aktuelle Punktzahl in das Counter-Feld. So konnten wir das Problem lösen und am Programm weiterarbeiten.
 
-
+![Code:](<img width="584" alt="2022-12-22" src="https://user-images.githubusercontent.com/111045598/209099849-deeb40af-27d6-49aa-ad77-9c3ed4dcc8bc.png">)
 
 
 
