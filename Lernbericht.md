@@ -1,5 +1,5 @@
 # LA_1300 Lern-Bericht
-Janick Hurschler
+Janick Hurschler \n
 Blentin Tousoni
 Joël Haldimann
 Benas Sivikas
