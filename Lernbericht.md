@@ -41,7 +41,7 @@ Eigentlich würde hier noch ein GIF zu sehen sein, aber der Gruppenchef sammt Co
 
 Wir hatten sehr schnell unser Ziel vor Augen. Wir wussten grob was und wie wir den Cookie-Clicker prgrammieren müssen. Dies gelang dank einem PAP und einer Besprechung in der Gruppe. 
 
-Wie haben hin und wieder vergessen, die Projektdokumentation zu schreieben und updaten. So war es auch schwieriger zu sehen, wie weit das Programm überhaupt ist und was man für Arbeiten vor sich hat.
+Wie haben hin und wieder vergessen, die Projektdokumentation zu schreiben und updaten. So war es auch schwieriger zu sehen, wie weit das Programm überhaupt ist und was man für Arbeiten vor sich hat.
 
 **VBV**: Beim nächsten Projekt muss die Gruppe unbedingt eine Person auswählen, die die Projektdoku immer überarbeitet und alles einschreibt. Die anderen Gruppenmitglieder müssen natürlich mit diesser Person
 auch kommunizieren. So sollten alle einen Überblick behalten und es gibt am Ende des Projektes keinen Stress.
