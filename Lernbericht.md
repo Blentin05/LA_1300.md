@@ -1,9 +1,9 @@
 # LA_1300 Lern-Bericht
-Janick Hurschler,
-Blentin Tousoni,
-Joël Haldimann,
-Benas Sivikas,
-Gian-Marco Mileti,
+Janick Hurschler,  
+Blentin Tousoni,  
+Joël Haldimann,  
+Benas Sivikas,  
+Gian-Marco Mileti,  
 
 ## Einleitung
 
