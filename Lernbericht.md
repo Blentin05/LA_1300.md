@@ -7,11 +7,11 @@ Gian-Marco Mileti,
 
 ## Einleitung
 
-Wir haben mit Windows Forms, in Visual Studios, ein Cookie-Clicker programmiert.
+Wir haben mit Windows Forms, in Visual Studios, ein Cookie-Clicker programmiert. Dieser soll als game für den Benutzer spielbar sein.
 
 ## Was habe ich gelernt?
 
-Wir haben gelernt, wie man einen Counter die ganze Zeit updaten kann, ohne ihn anzuklicken.
+Wir haben gelernt, wie man einen ein Textfeld, also bei uns ein Counter, die ganze Zeit updaten kann, ohne ihn anzuklicken.
 
 ## Beschreibung
 
