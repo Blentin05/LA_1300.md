@@ -23,7 +23,8 @@ updaten, wenn man einen anderen Button drückt. Das klingt wie gesagt ziemlich e
 Also Schlussendlich haben wir einfach den Button, der fürs anklicken des Cookies gedacht ist, genommen und haben gesagt: Wenn man diesen Knopf, also Cookie, drückt, dann
 Schreibe auch die aktuelle Punktzahl in das Counter-Feld. So konnten wir das Problem lösen und am Programm weiterarbeiten.
 
-Lösung im Code:
+
+
 <img width="584" alt="2022-12-22" src="https://user-images.githubusercontent.com/111045598/209099984-925afe15-7f3c-4b7e-84c8-7d243c856666.png">
 
 
